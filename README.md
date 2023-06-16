@@ -20,7 +20,7 @@
 
 # snp_information
 
-![Example instance](https://github.com/bloodmage1/Snp_approach/blob/main/snp_info.png)
+![Example instance](https://github.com/bloodmage1/Snp_approach/blob/main/snp_infp.png)
 
 주어진 정보는 다음과 같습니다. 
 
