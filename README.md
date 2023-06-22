@@ -16,7 +16,7 @@
 # 문제와 배경지식
 
 유전체 염기서열에서 획득한 유전체 변이 정보인 Single Nucleotide Polymorphism 정보는 특정 개체 및 특정 품종에 따라 다른 변이 양상을 나타낼 수 있기 때문에 동일개체를 확인하거나,
-동일 품종을 구분하는데 활용이 가능합니다. 특히 많은 SNP 정보를 통해 분류하는 것보다, 보다 더 적은 SNP 정보로 높은 분류 성능을 내는 것이 중요합니다.
+동일 품종을 구분하는데 활용이 가능합니다. 특히 많은 SNP 정보를 통해 분류하는 것보다, 보다 더 적은 SNP 정보로 높은 분류 성능을 내는 것이 중요합니다 [대회정보](https://dacon.io/competitions/official/236035/overview/description).
 
 # snp_information
 
